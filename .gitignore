@@ -1,0 +1,24 @@
+# secrets & local state
+config.json
+found_keys.txt
+found_image_keys.txt
+all_keys.json
+
+# generated data
+output/
+decrypted/
+.deps/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# temp / local helpers
+_*.py
+_*.cmd
+_*.vbs
+*.lnk
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
